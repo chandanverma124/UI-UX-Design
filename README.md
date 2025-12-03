@@ -1,4 +1,4 @@
-# UI-UX-Design
+# UI/UX Design - (Figma)
 UI/UX projects showcasing my skills in wireframing, prototyping, and interface design.
 
 # Figma Project Links
