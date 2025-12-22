@@ -1,8 +1,8 @@
 # UI/UX Design
 This repository showcases my UI/UX design journey, including wireframes, interactive prototypes, and clean, user-friendly interfaces.
  
-# Logins Page UI (Figma Prototype)
-https://www.figma.com/proto/qwimNfXn8KVtxw6RvPnMA9/Login-Page--Community-?node-id=0-1&t=PgzeeikklucOLrsS-1
+# Logins Page UI 
+https://www.figma.com/design/qwimNfXn8KVtxw6RvPnMA9/Login-Page--Community-?node-id=0-1&t=9Hc0K14uTJnj2MKU-1
 
 👉 Features :
 - Clean & minimal login screen
@@ -13,8 +13,8 @@ https://www.figma.com/proto/qwimNfXn8KVtxw6RvPnMA9/Login-Page--Community-?node-i
 - Modern yellow & white color theme
 - Mobile-friendly & user-friendly UI
 
-# Food Ordering App UI (Figma Prototype)
-https://www.figma.com/proto/snyIEAGdJRfNOnkErfD2zO/Food-Ordering-App--Community-?node-id=0-1&t=r25sJB9nDLsotCza-1
+# Food Ordering App UI 
+https://www.figma.com/design/snyIEAGdJRfNOnkErfD2zO/Food-Ordering-App--Community-?node-id=0-1&t=MKOtyLJRlUdnHCn3-1
 
 👉 Features :
 - Onboarding screen
